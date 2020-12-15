@@ -1,0 +1,2 @@
+Change footprint "J15" (from "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical") to "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical": OK
+Change footprint "J14" (from "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical") to "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical": OK

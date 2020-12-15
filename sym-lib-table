@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name qam---demodulator-rescue)(type Legacy)(uri "${KIPRJMOD}/qam - demodulator-rescue.lib")(options "")(descr ""))
+  (lib (name pastaisitie_simboli)(type Legacy)(uri "F:/Skola VeA/KiCad Andrejs Dzelme/pastaisitie simboli/pastaisitie_simboli.lib")(options "")(descr ""))
+)
